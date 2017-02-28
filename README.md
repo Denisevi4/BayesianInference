@@ -7,5 +7,7 @@ These results were used to write an article  in SOA "Predictive Analytics and Fu
 "Bayesian Inference in Machine Learning" by Denis Perevalov
 
 WDModel.ipynb         - Main Jupyter Notebook
+
 wd_v5.stan                - Stan Code
+
 WDUtilityFunctions.R - R helper functions for simulating data, making plots etc.
